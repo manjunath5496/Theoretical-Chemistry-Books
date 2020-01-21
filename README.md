@@ -80,7 +80,8 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Theoretical-Chemistry-Books/blob/master/tch(38).pdf" style="text-decoration:none;">Ideas of Quantum Chemistry</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Theoretical-Chemistry-Books/blob/master/tch(39).pdf" style="text-decoration:none;">Fundamentals of Inorganic Chemistry: An Introductory Text for Degree Course Studies </a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Theoretical-Chemistry-Books/blob/master/tch(40).pdf" style="text-decoration:none;">Notes on Quantum Mechanics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Theoretical-Chemistry-Books/blob/master/tch(41).pdf" style="text-decoration:none;">New Theoretical Concepts for Understanding Organic Reactions </a></b></li>
 
 
 
